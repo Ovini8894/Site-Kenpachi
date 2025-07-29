@@ -13,7 +13,7 @@ O site conta com **quatro botões de navegação**, posicionados no cabeçalho, 
 - **Logo** (à esquerda), que funciona como botão e leva de volta para a página principal;
 - **Sobre** — informações gerais sobre Zaraki;
 - **Bankai** — detalhes sobre a Bankai de Zaraki Kenpachi;
-- **Feitos** — uma lista com os feitos mais impressionantes do personagem.
+- **Feitos** — Onde mostra um feito de Zaraki.
 
 ## 🧱 Tecnologias utilizadas
 
