@@ -1,0 +1,104 @@
+/* Define que o <body> será um container flexível em coluna */
+body {
+  display: flex;                /* Ativa o Flexbox */
+  flex-direction: column;       /* Organiza os filhos (conteúdo + footer) na vertical */
+  min-height: 100vh;            /* Faz o body ocupar 100% da altura da tela (viewport) */
+  margin: 0;                    /* Remove margens padrão do navegador */
+  background-color: #111111;
+  font-family: 'Oswald', sans-serif;
+}
+
+/* Essa div representa o conteúdo principal da página */
+main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+ 
+}
+article{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 60px;
+  align-items: center;
+  padding-left: 150px;
+  font-size: x-large;
+}
+
+/* Aqui estilizamos o rodapé */
+footer {
+  background: #333;             /* Cor de fundo escura */
+  color: #FFFFFF;                 /* Cor do texto branca */
+  padding: 10px;                /* Espaçamento interno */
+  display: flex;
+}
+
+.headerFooter ul li a {
+  text-decoration: none;
+  display: flex;
+}
+p {
+  margin: auto;
+  
+}
+
+header {
+  background: #27408B;
+  align-items: center;
+  display: flex;
+  height: 90px;
+
+}
+
+header nav ul a {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  border: #333;
+  margin: 10px;
+  padding: 10px;
+  
+}
+
+.IMGmain {
+  max-width: 600px;
+  height: auto;
+}
+.zarakiAbout {
+  max-width: 50%;
+  background-color: #6A8EEF;
+  padding: 15px;
+  color: #090f2b;
+  font-family: Arial, sans-serif;
+  border-radius: 20px;
+  box-shadow: 4px 4px 8px #27408b66;
+}
+
+.logo{
+  width: 110%;
+  height: 90%;
+  object-fit: cover; /* preenche certinho sem distorcer */
+  border-radius: 50%; /* garante que a imagem fique redonda também */
+  align-items: center;
+  justify-content: center;
+  
+}
+.logoBorda {
+  border: 2px solid #4169E1;
+  border-radius: 50%;         /* deixa a borda redonda */
+  box-shadow:  2px 2px 8px rgb(11, 20, 46); /* sombra suave */               /* espaço entre imagem e borda */
+  margin-left: 20px;          /* espaço da esquerda */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 70px;
+  overflow: hidden;
+  background-color: #4169E1;
+}
+.mention {
+ border-left: solid #4169E1;
+ margin-left: 0;
+ padding-left: 60px;
+}
+
