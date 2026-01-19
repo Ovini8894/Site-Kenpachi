@@ -1,29 +1,52 @@
-# Site — Zaraki Kenpachi
+# ⚔️ Site — Zaraki Kenpachi
 
-Este projeto é um site simples feito como prática de HTML semântico e CSS básico, com foco no personagem **Zaraki Kenpachi** do anime *Bleach*.
+Este projeto consiste em um **site simples desenvolvido como prática de HTML semântico e CSS básico**, tendo como tema o personagem **Zaraki Kenpachi**, do anime *Bleach*.
 
-## 💡 Sobre o projeto
-
-O site apresenta informações sobre Zaraki Kenpachi, como sua história, poderes e feitos marcantes. Ele foi construído com foco na estrutura semântica do HTML5, prezando pela organização e acessibilidade do conteúdo.
-
-## 🧭 Navegação
-
-O site conta com **quatro botões de navegação**, posicionados no cabeçalho, sendo:
-
-- **Logo** (à esquerda), que funciona como botão e leva de volta para a página principal;
-- **Sobre** — informações gerais sobre Zaraki;
-- **Bankai** — detalhes sobre a Bankai de Zaraki Kenpachi;
-- **Feitos** — Onde mostra um feito de Zaraki.
-
-## 🧱 Tecnologias utilizadas
-
-- HTML5 (com ênfase em **tags semânticas** como `<header>`, `<main>`, `<section>`, `<article>`, `<footer>`, etc.)
-- CSS3 (utilizado para estilizar o layout, cores, responsividade simples e efeitos de hover nos botões)
-
-## 📝 Objetivo
-
-Este projeto foi criado com fins educativos para praticar estruturação de páginas utilizando HTML e CSS, reforçando o uso correto das tags semânticas e princípios básicos de design responsivo.
+O projeto foi criado com foco em **aprendizado**, organização de código e aplicação de boas práticas iniciais de desenvolvimento front-end.
 
 ---
 
-Feito por Vinícius Candido
+## 💡 Sobre o Projeto
+
+O site apresenta informações sobre Zaraki Kenpachi, abordando sua história, poderes e feitos marcantes.  
+Durante o desenvolvimento, o foco principal foi a **estrutura semântica do HTML5**, prezando pela clareza, organização e acessibilidade do conteúdo.
+
+---
+
+## 🧭 Navegação
+
+O site conta com quatro botões de navegação localizados no cabeçalho:
+
+- **Logo** (à esquerda) — funciona como botão e redireciona para a página principal  
+- **Sobre** — informações gerais sobre Zaraki Kenpachi  
+- **Bankai** — detalhes sobre a Bankai do personagem  
+- **Feitos** — seção que apresenta um dos feitos marcantes de Zaraki  
+
+---
+
+## 🧱 Tecnologias Utilizadas
+
+- **HTML5**  
+  - Uso de tags semânticas como `<header>`, `<main>`, `<section>`, `<article>` e `<footer>`  
+
+- **CSS3**  
+  - Estilização do layout  
+  - Definição de cores  
+  - Responsividade simples  
+  - Efeitos de hover nos botões de navegação  
+
+---
+
+## 📝 Objetivo do Projeto
+
+Este projeto foi desenvolvido **exclusivamente para fins educacionais**, com o objetivo de:
+- Praticar a estruturação de páginas com HTML semântico  
+- Aplicar conceitos básicos de estilização com CSS  
+- Reforçar noções iniciais de acessibilidade e organização de conteúdo  
+- Consolidar fundamentos do desenvolvimento front-end  
+
+---
+
+## 👤 Autor
+
+Feito por **Vinícius Candido**
