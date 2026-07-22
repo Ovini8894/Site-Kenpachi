@@ -10,6 +10,7 @@ O projeto foi criado com foco em **aprendizado**, organização de código e apl
 
 O site apresenta informações sobre Zaraki Kenpachi, abordando sua história, poderes e feitos marcantes.  
 Durante o desenvolvimento, o foco principal foi a **estrutura semântica do HTML5**, prezando pela clareza, organização e acessibilidade do conteúdo.
+https://ovini8894.github.io/Site-Kenpachi/
 
 ---
 
